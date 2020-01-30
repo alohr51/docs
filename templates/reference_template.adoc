@@ -242,14 +242,6 @@ the server directory C:\wlp\usr\servers\server_name already exists.
 * link:server-package.html[server package]
 
 
-// Include server script exit codes
-include::server-exitcodes.adoc[]
-
-
-// Include description of server process
-include::server-serverprocess.adoc[]
-
-
 
 //NOTE: Info taken from the following sources:
 
